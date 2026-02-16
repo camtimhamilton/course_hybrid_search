@@ -1,4 +1,4 @@
-![[Pasted image 20260208135204.png]]
+![Alt text](images/pipelines.png)
 
 # code retrieval
 
@@ -30,7 +30,7 @@ https://arxiv.org/abs/2409.14609
 создание метаданных с помощью регулярок
 # repository-level code retrieval
 
-![[Pasted image 20260211141709.png]]
+![Alt text](images/rlcr.png)
 
 ## Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs
 
